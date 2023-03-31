@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**pj1987111/pj1987111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I’m currently working on [iLogtail](https://github.com/alibaba/ilogtail) project.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on iLogtail project.
--->
+<p align="center">
+  <!-- 初级开发者 -->
+  <a href="https://github.com/alibaba/ilogtail/blob/main/docs/cn/contributing/achievement.md#junior-developer"><img alt="Junior Developer" width="200" height="200" src="https://ilogtail-community-edition.oss-cn-shanghai.aliyuncs.com/images/contributing/achievement/Jr.Dev.png" /></a>
+</p>
